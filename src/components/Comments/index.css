@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.all-back {
+  padding: 100px;
+}
+
+.top-part {
+  display: flex;
+  justify-content: space-between;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.name-input {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.comment-input {
+  margin-bottom: 20px;
+}
+
+.add-button {
+  background-color: #0284c7;
+  border: none;
+  padding: 10px;
+  width: 120px;
+  border-radius: 10px;
+  color: white;
+}
+
+.comments-count {
+  background-color: #0284c7;
+  padding-left: 3px;
+  padding-right: 3px;
+  margin-right: 2px;
+  color: white;
+}
